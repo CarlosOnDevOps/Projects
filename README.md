@@ -76,7 +76,7 @@ Build the backbone of music data management with Sparkify's data warehouse. Dive
 
 ## :five: Developing a Business Intelligence Solution for a Global Manufacturing Company
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/AdventureWorks_Data_Exploration)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/ECommerce_AB_Test_Analysis)
 
 ### Summary
 
