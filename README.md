@@ -12,7 +12,7 @@ Explore my data engineering, data science, and data analytics projects below. Th
 
 ## :one: Developing a Business Intelligence Solution for a Global Manufacturing Company
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/AdventureWorks)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/AdventureWorks_Data_Exploration)
 
 ### Summary
 
