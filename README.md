@@ -27,7 +27,69 @@ Join me on a journey with **Adventure Works Cycles**, a global manufacturing com
 
 ---
 
-## :two: Analysis of Data Professionals' Survey Responses
+---
+
+## :two: Tale of Tails: Twitter Dog Ratings Analysis
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/Twitter_DogRatings_Analysis)
+
+### Summary
+
+Embark on a delightful journey into the world of Twitter dog ratings. Explore the canine charisma and charm that captivates social media. Analyze dog ratings, trends, and the stories behind the adorable tails that light up your feed.
+
+### Skills Developed
+
+- Data science
+- NumPy
+
+---
+---
+
+## :three: Exploring Movie Industry Trends on the Big Screen
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/Movie_Industry_Trends_Exploration)
+
+### Summary
+
+Enter the world of cinematic exploration with this project. Uncover intriguing trends and patterns in the movie industry, from box office successes to genre preferences. Analyze the data behind the silver screen to unveil the stories that captivate audiences worldwide.
+### Skills Developed
+
+- Data Transformation and Shaping
+
+---
+---
+
+## :four: Sparkify Music Data Warehouse Engineering
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/Sparkify_Data_Warehouse_Engineering)
+
+### Summary
+
+Build the backbone of music data management with Sparkify's data warehouse. Dive into data engineering, transforming raw music data into a structured and efficient database. Lay the foundation for comprehensive music analysis and insights.
+
+### Skills Developed
+
+- Data Transformation and Shaping
+  
+---
+---
+
+## :five: Developing a Business Intelligence Solution for a Global Manufacturing Company
+
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/AdventureWorks_Data_Exploration)
+
+### Summary
+
+Step into the realm of e-commerce and optimize decision-making with A/B test results analysis. Delve deep into the data to uncover patterns and trends that impact user behavior. Harness the potential of data to enhance the online shopping experience and drive business growth.
+
+### Skills Developed
+
+- Data Transformation and Shaping
+
+
+---
+
+## :six: Analysis of Data Professionals' Survey Responses
 
 [![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/DataPro_Survey_Analysis)
 
@@ -43,24 +105,10 @@ Dive into an analysis of a survey aimed at data professionals. This project unco
 
 ---
 
-## :three: Developing a Public Library Database
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Library_Management_System)
+## :seven: Developing a Health Clinic Database
 
-### Summary
-
-Embark on a project to create a database for a public library, focusing on compiling and analyzing data related to clients' reading preferences. This database will guide future purchasing decisions for the library.
-
-### Skills Developed
-
-- SQL
-- MySQL
-
----
-
-## :four: Developing a Health Clinic Database
-
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/SQL_Projects/Hospital_Management_System)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/Hospital_Data_Optimization)
 
 ### Summary
 
@@ -73,9 +121,9 @@ Help a local clinic optimize their data management with a database that organize
 
 ---
 
-## :five: Analysis of a Supermarket's Sales
+## :eight: Analysis of a Supermarket's Sales
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/02_Sales_Dashboard)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/Sales_Dashboard_Grocery_Company)
 
 ### Summary
 
@@ -88,9 +136,9 @@ Explore sales data from a fictional supermarket chain and create a visually rich
 
 ---
 
-## :six: Analysis of the Spread of the Covid-19 Coronavirus
+## :nine: Analysis of the Spread of the Covid-19 Coronavirus
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/Coronavirus_Analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/Coronavirus_Impact_Assessment)
 
 ### Summary
 
@@ -104,9 +152,9 @@ Utilize COVID-19 data from various sources to prepare charts and visualizations 
 
 ---
 
-## :seven: Analysis of the Global GDP in US Currency
+## 1️⃣0️⃣ Analysis of the Global GDP in US Currency
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/Global_GDP)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/GlobalGDP_Trends_Analysis)
 
 ### Summary
 
@@ -119,9 +167,9 @@ Visualize GDP data from countries worldwide, providing valuable insights into th
 
 ---
 
-## :eight: Analysis of MSP Ticket Data
+## :one::one: Analysis of MSP Ticket Data
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/MSP_Ticket_Analysis)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/MSP_Ticket_Volume_Analysis)
 
 ### Summary
 
@@ -134,9 +182,9 @@ Dive into ticket volume analysis for an IT Major Service Provider (MSP). Underst
 
 ---
 
-## :nine: Analysis of the Ticket Volume of an Information Security Department for a National MSP
+## :one::two: Analysis of the Ticket Volume of an Information Security Department for a National MSP
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/InfoSec_Department_Stats)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/InfoSec_Dept_KPI_Analysis)
 
 ### Summary
 
