@@ -29,7 +29,7 @@ Join me on a journey with **Adventure Works Cycles**, a global manufacturing com
 
 ## :two: Analysis of Data Professionals' Survey Responses
 
-[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Big_Data_Projects/tree/main/Power_BI_Projects/01_Database_Professional_Survey)
+[![GitHub](https://img.shields.io/badge/GitHub-View%20Project-181717?style=for-the-badge&logo=github)](https://github.com/CarlosOnDevOps/Projects/tree/main/DataPro_Survey_Analysis)
 
 ### Summary
 
